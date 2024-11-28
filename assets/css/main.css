@@ -122,6 +122,11 @@ body {
 }
 
 .clock__month,
+.clock__day {
+  text-transform: capitalize;
+}
+
+.clock__month,
 .clock__day,
 .clock__year,
 .clock__text-hour,
